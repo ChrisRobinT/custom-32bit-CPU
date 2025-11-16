@@ -220,3 +220,4 @@ This project demonstrates knowledge of:
 
 Chris–Robin Talts  
 github.com/ChrisRobinT
+linkedin.com/in/chrisrobintalts
