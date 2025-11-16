@@ -219,5 +219,7 @@ This project demonstrates knowledge of:
 ## 👤 Author
 
 Chris–Robin Talts  
+
 github.com/ChrisRobinT
+
 linkedin.com/in/chrisrobintalts
